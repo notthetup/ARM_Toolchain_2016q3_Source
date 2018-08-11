@@ -1,1 +1,1 @@
-875227daa6ff1229b6a03962860a2121  LINUXAARCH64.zip
+630fb2607fdd03d7a91bc593fd5560e7 *gcc-arm-none-eabi-5_4-2016q3-20180810-linux.tar.bz2
